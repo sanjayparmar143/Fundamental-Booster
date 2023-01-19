@@ -6,7 +6,7 @@ class king8{
         int c = 12;
 
         if (a < b) {
-            if (a > c) {
+            if (a < c) {
                 System.out.println("A is small");
 
             } else {
